@@ -1,7 +1,7 @@
 body {
     background-color: lightskyblue;
     padding: 15px;
-    font-family: 'Old Standard TT', serif;
+    /*font-family: 'Old Standard TT', serif;*/
     /*background-image: url("winter-fairy-tale-at-sunset-in-the-mountains Reduced.jpg");*/
 }
 
@@ -67,6 +67,10 @@ body {
 
 
 p {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+html {
     font-family: 'Chakra Petch', sans-serif;
 }
 
