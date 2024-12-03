@@ -12,7 +12,6 @@ main {
 }
 
 header {
-    background-color: #34eb8f;
     color: white;
     padding: 20px 10px;
     text-align: center;
@@ -107,14 +106,13 @@ nav {
 }
 
 .contact-info a {
-    color: white;
+    /*color: white;*/
     text-decoration: none;
 }
 
 .contact-info p {
     margin: 5px 0;
 }
-
 
 #ProfilePicture {
     display: block;
