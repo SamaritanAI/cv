@@ -76,6 +76,8 @@ html {
 
 h2 {
     color: deeppink;
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 5px;
 }
 
 .center {
@@ -89,4 +91,24 @@ h2 {
 
 nav {
     display: block;
+}
+
+.contact-info a {
+    color: white;
+    text-decoration: none;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+header {
+    background-color: #007acc;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
 }
