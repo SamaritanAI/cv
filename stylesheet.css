@@ -1,10 +1,8 @@
 body {
-    /*background-color: lightskyblue;*/
     background-color: #001029;
     padding: 15px;
     color: #fffdd0;
-    /*font-family: 'Old Standard TT', serif;*/
-    /*background-image: url("winter-fairy-tale-at-sunset-in-the-mountains Reduced.jpg");*/
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 main {
@@ -77,15 +75,6 @@ header {
   font-style: italic;
 }
 
-
-p {
-    font-family: 'Chakra Petch', sans-serif;
-}
-
-html {
-    font-family: 'Chakra Petch', sans-serif;
-}
-
 h2 {
     color: deeppink;
     border-bottom: 2px solid #007acc;
@@ -105,8 +94,16 @@ nav {
     display: block;
 }
 
+a:active {
+    color: magenta;
+    font-weight: bold;
+}
+a:visited{
+    color: hotpink;
+}
+
+
 .contact-info a {
-    /*color: white;*/
     text-decoration: none;
 }
 
